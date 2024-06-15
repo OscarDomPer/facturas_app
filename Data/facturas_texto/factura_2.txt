@@ -1,0 +1,250 @@
+DATOS DE LA FACTURA 
+Nº factura: H4623704265 
+Referencia: 329900282530/8181 
+Fecha emisión factura: 15/12/1999 
+Periodo de Facturación: del 13/11/1999 a 13/12/1999 (30 días) 
+Fecha de cargo: 18 de diciembre de 1999 
+.................................................................................................................................................................... 
+EPRESA ENERGÍA S.A.. 
+CIF A11508629. 
+C/ CARRETAS, 5 11510 - PUERTO REAL 
+BENEDICTA GALLEGOS AGUILAR  
+Travesia de las Delicias 
+24149 Los Barrios de Luna  
+León 
+Forma de pago: Domiciliada 
+Potencia 
+Energía 
+Descuentos 
+Otros 
+Impuestos 
+IGIC reducido 
+11,60 € 
+60,49 € 
+-X,XX € 
+2,75 € 
+3,69 € 
+1,52 € 
+Fecha de cargo: 18 de diciembre de 1999 
+IBAN: ES14901206936360888***** 
+Cod.Mandato: E87442603666318178650688896 
+( 2%) 
+Versión: 7728 
+IGIC normal ( 21%) 
+0,58 € 
+........................................................................................................................................... 
+Su pago se justifica con el correspondiente apunte bancario 
+(Detalle de la factura en el reverso) 
+Consumo en el 
+periodo punta 
+Consumo en el 
+periodo valle 
+kWh 
+Evolución del consumo 
+770 
+De 12h a 22h 
+De 22h a 12h 
+........................................................................................................................................................ 
+Lectura anterior 
+660 
+550 
+(real) 
+23518 kWh 
+XXX kWh 
+(13-noviembre-1999) 
+........................................................................................................................................................ 
+Lectura actual 
+440 
+330 
+(real) 
+23762 kWh 
+XXX kWh 
+220 
+(13-diciembre-1999) 
+........................................................................................................................................................ 
+Consumo 
+110 
+0 
+en el periodo 
+244 kWh 
+XXX kWh 
+ENE FEB 
+ 
+XX     XX 
+Cons.Valle Real 
+Media 
+Cons.Punta Real 
+XX% 
+X,XX €/día en esta factura. 
+X,XX €/día durante los últimos 14 meses. Consumo 
+acumulado (último año): X.XXX kWh 
+Valle 
+XX% 
+REPARTO CONSUMO 
+....................................................................... 
+.................................................................................................... 
+EPRESA ENERGÍA S.A.. Inscrita en el Registro Mercantil de Cádiz, tomo 5364, folio 86, sección 1, hoja número M-191637, inscripción 
+34, CIF A11508629. Domicilio Social: C/ CARRETAS, 5, 11510 - Cádiz 
+ 
+XXXXX-X-XX/XX/XX NXXXXXXNNNN 
+ 
+244 
+ 
+ 
+XXX 
+ 
+ 
+ 
+ 
+     
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    
+ 
+ 
+  
+ 
+ 
+ 
+INFORMACIÓN DEL CONSUMO ELÉCTRICO 
+80,63 € 
+TOTAL IMPORTE FACTURA 
+RESUMEN DE LA FACTURA Y DATOS DE PAGO 
+ 
+ 
+60,49 € 
+Importe por energía consumida: 
+244 kWh x 0,247889 Eur/kWh 
+ 
+ 
+ 
+ 
+ 
+DATOS DEL CONTRATO 
+Titular del contrato: BENEDICTA GALLEGOS AGUILAR 
+NIF: 74434368C 
+Dirección de suministro: Travesia de las Delicias, Los Barrios de 
+Luna, León 
+Número de contador: 688906697 
+Su comercializadora: EPRESA ENERGÍA S.A. 
+Su distribuidora: ELECTRICA SANTA CLARA SL 
+ 
+Referencia del contrato de acceso: 472765536859 
+Peaje de acceso: 2.0A 
+Fin de contrato de suministro: 13/12/1999  
+(renovación anual 
+automática) 
+CUPS: ES1041510282720050PRUS 
+El destino del importe de su 
+factura, 80,63 euros, es el 
+siguiente: 
+LUZ 
+Importe por potencia contratada: 
+3,48 kW x 0,111065 Eur/kW x 30 días 
+11,60 € 
+X,XX € 
+En dicho importe, facturación por peaje de acceso: 
+3,48 kW x 37,536029 Eur/kW y año x (30/365) días 
+        10,74 € 
+XX,XX € 
+11,60 € 
+XX,XX € 
+En dicho importe, su facturación por peaje de acceso ha sido: 
+Consumo P1 
+244 kWh x 0,104051 Eur/kWh  
+25,39 € 
+Incentivos a las energías renovables, cogeneración y residuos 
+Coste de redes de transporte y distribución 
+Otros costes regulados (incluida la anualidad del déficit) 
+XX,XX € 
+XX,XX € 
+X,XX € 
+60,49 € 
+SUBTOTAL 
+72,09 € 
+A los importes indicados en el diagrama debe añadirse, en su caso, el importe del 
+alquiler de los equipos de medida y control así como los conceptos no energéticos. 
+OTROS CONCEPTOS 
+Descuento por e-factura 60,49 Eur x -X % DTO 
+-X,XX € 
+ 
+Descuento -X % x 72,09 Eur 
+-X,XX € 
+ 
+Impuesto electricidad ( 72,09 X 5,1127 % ) 
+ 3,69 € 
+ 
+Alquiler equipos de medida y control (30 días x 0,091726 Eur/día) 
+ 2,75 € 
+SUBTOTAL 
+Importe total 
+IGIC reducido ( 2%) 2% s/ 75,78 
+6,44 € 
+78,53 € 
+1,52 € 
+0,58 € 
+IGIC normal ( 21%) 21% s/ 2,75 
+TOTAL IMPORTE FACTURA 
+80,63 € 
+Precios de los términos del peaje de acceso publicados en Orden TEC/1366/2018. 
+Precio del alquiler de los equipos de medida y control en Orden IET 1491/2013 de 3 de 
+agosto. 
+Los precios de la energía de esta tarifa se han actualizado el 01/01/20XX trasladando las variaciones reguladas en la Orden TEC/1366/2018 de 20 de 
+diciembre, en la Orden IET/2013/2013 de 31 de octubre y en la Resolución de 6 de noviembre de 2018 de la Secretaría de Estado de Energía. Con esta tarifa 
+se beneficia de un descuento permanente y le recordamos que, si más de un 50% del consumo lo realiza en horas valle (22-12h en invierno y 23-13h en 
+verano), tendrá un descuento adicional, además de ayudar a proteger el medio ambiente. Para más información puede llamar al servicio de atención al 
+cliente o consultar nuestra web. 
+900 814 112 (tlf. gratuito)  
+https://epresaenergia.es/  
+ 
+Reclamaciones 
+C/ CARRETAS, 5, 11510 - Cádiz 
+Urgencias  
+900 373 020 
+(tlf. gratuito) 
+Para reclamaciones sobre el contrato de suministro o facturaciones podrá dirigirse a: Consejería de Empleo, Industria y Comercio de la Comunidad Autónoma de 
+Canarias en el teléfono: 928 XXX XXX o a través de su página web. http://www.gobcan.es/ceic/energia 
+..................................................... 
+............................................ 
+ATENCIÓN AL CLIENTE: CONSULTAS, GESTIONES Y RECLAMACIONES 24 HORAS 
+INFORMACIÓN DE SU PRODUCTO 
+Costes Regulados 
+Coste de producción de electricidad 
+Impuestos aplicados 
+DESTINO DEL IMPORTE DE LA FACTURA 
+DETALLE DE LA FACTURA 
+Producto contratado: PVPC sin discriminación horaria 
+Potencia contratada: 3,477 kW  
+Referencia del contrato: 4827269911250 
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMACIÓN SOBRE SU ELECTRICIDAD 
+Fuente: CNMC (Comisión Nacional de los Mercados y Competencia), http://gdo.cnmc.es/CNE/resumenGdo.do? 
+XXXXX-X-XX/XX/XX NXXXXXXNNNN 
+El impacto ambiental de su electricidad depende de las fuentes energéticas utilizadas para su generación. 
+En una escala de A a G donde A indica el mínimo impacto ambiental y G el máximo, y que el valor medio nacional 
+corresponde al nivel D, la energía comercializada por EPRESA ENERGÍA S.A.. tiene los siguientes valores: 
+ 
+IMPACTO MEDIOAMBIENTAL 
+ 
+ORIGEN DE LA ELECTRICIDAD 
+Si bien la energía eléctrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros 
+consumidores conectados al mismo sistema eléctrico, ahora sí es posible garantizar el origen de la producción de energía 
+eléctrica que usted consume. 
+A estos efectos se proporciona el desglose de la mezcla de tecnologías de producción nacional para así comparar los 
+porcentajes del promedio nacional con los correspondientes a la energía vendida por su Compañía Comercializadora. 
+ 
+ 

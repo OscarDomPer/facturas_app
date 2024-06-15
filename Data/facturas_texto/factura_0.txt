@@ -1,0 +1,254 @@
+DATOS DE LA FACTURA 
+Nº factura: SV5043664894 
+Referencia: 591313314378/6522 
+Fecha emisión factura: 27/09/2018 
+Periodo de Facturación: del 26/08/2018 a 25/09/2018 (30 días) 
+Fecha de cargo: 30 de septiembre de 2018 
+.................................................................................................................................................................... 
+IBERDESA COMERCIALIZADORA SOCIEDAD LIMITADA. 
+CIF B90393497. 
+CRT.SEVILLA-MADRID, KM 524, CAMINO DE LA PASTORA S/N 41410 - CARMONA 
+Conrado Daniel Iglesias  
+Calle la Solana 
+22394 La Fueva  
+Huesca 
+Forma de pago: Domiciliada 
+Potencia 
+Energía 
+Descuentos 
+Otros 
+Impuestos 
+IGIC reducido 
+16,80 € 
+0,00 € 
+-X,XX € 
+0,80 € 
+0,86 € 
+1,24 € 
+Fecha de cargo: 30 de septiembre de 2018 
+IBAN: ES31873903585096496***** 
+Cod.Mandato: E88656958265427260292185691 
+( 7%) 
+Versión: 4779 
+IGIC normal ( 10%) 
+0,08 € 
+........................................................................................................................................... 
+Su pago se justifica con el correspondiente apunte bancario 
+(Detalle de la factura en el reverso) 
+Consumo en el 
+periodo punta 
+Consumo en el 
+periodo valle 
+kWh 
+Evolución del consumo 
+770 
+De 12h a 22h 
+De 22h a 12h 
+........................................................................................................................................................ 
+Lectura anterior 
+660 
+550 
+(real) 
+68818 kWh 
+XXX kWh 
+(26-agosto-2018) 
+........................................................................................................................................................ 
+Lectura actual 
+440 
+330 
+(real) 
+68818 kWh 
+XXX kWh 
+220 
+(25-septiembre-2018) 
+........................................................................................................................................................ 
+Consumo 
+110 
+0 
+en el periodo 
+0 kWh 
+XXX kWh 
+ENE FEB 
+ 
+XX     XX 
+Cons.Valle Real 
+Media 
+Cons.Punta Real 
+XX% 
+X,XX €/día en esta factura. 
+X,XX €/día durante los últimos 14 meses. Consumo 
+acumulado (último año): X.XXX kWh 
+Valle 
+XX% 
+REPARTO CONSUMO 
+....................................................................... 
+.................................................................................................... 
+IBERDESA COMERCIALIZADORA SOCIEDAD LIMITADA. Inscrita en el Registro Mercantil de SEVILLA, tomo 179, folio 69, sección 2, 
+hoja número M-174691, inscripción 92, CIF B90393497. Domicilio Social: CRT.SEVILLA-MADRID, KM 524, CAMINO DE LA PASTORA 
+S/N, 41410 - SEVILLA 
+ 
+XXXXX-X-XX/XX/XX NXXXXXXNNNN 
+ 
+0 
+ 
+ 
+XXX 
+ 
+ 
+ 
+ 
+     
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+    
+ 
+ 
+  
+ 
+ 
+ 
+INFORMACIÓN DEL CONSUMO ELÉCTRICO 
+19,78 € 
+TOTAL IMPORTE FACTURA 
+RESUMEN DE LA FACTURA Y DATOS DE PAGO 
+ 
+ 
+0,00 € 
+Importe por energía consumida: 
+0 kWh x 0,190557 Eur/kWh 
+ 
+ 
+ 
+ 
+ 
+DATOS DEL CONTRATO 
+Titular del contrato: Conrado Daniel Iglesias 
+NIF: 73635161V 
+Dirección de suministro: Calle la Solana, La Fueva, Huesca 
+Número de contador: 983940623 
+Su comercializadora: IBERDESA COMERCIALIZADORA 
+SOCIEDAD LIMITADA 
+Su distribuidora: COMPAÑIA ELECTRICA DE FEREZ SL 
+ 
+Referencia del contrato de acceso: 425403666340 
+Peaje de acceso: 2.0DHA 
+Fin de contrato de suministro: 25/09/2018  
+(renovación anual 
+automática) 
+CUPS: ES2893009556690175WXAO 
+El destino del importe de su 
+factura, 19,78 euros, es el 
+siguiente: 
+LUZ 
+Importe por potencia contratada: 
+4,80 kW x 0,116699 Eur/kW x 30 días 
+16,80 € 
+X,XX € 
+En dicho importe, facturación por peaje de acceso: 
+4,80 kW x 38,508730 Eur/kW y año x (30/365) días 
+        15,19 € 
+XX,XX € 
+16,80 € 
+XX,XX € 
+En dicho importe, su facturación por peaje de acceso ha sido: 
+Consumo P1 
+0 kWh x 0,095991 Eur/kWh  
+0,00 € 
+Incentivos a las energías renovables, cogeneración y residuos 
+Coste de redes de transporte y distribución 
+Otros costes regulados (incluida la anualidad del déficit) 
+XX,XX € 
+XX,XX € 
+X,XX € 
+0,00 € 
+SUBTOTAL 
+16,80 € 
+A los importes indicados en el diagrama debe añadirse, en su caso, el importe del 
+alquiler de los equipos de medida y control así como los conceptos no energéticos. 
+OTROS CONCEPTOS 
+Descuento por e-factura 0,00 Eur x -X % DTO 
+-X,XX € 
+ 
+Descuento -X % x 16,80 Eur 
+-X,XX € 
+ 
+Impuesto electricidad ( 16,80 X 5,1127 % ) 
+ 0,86 € 
+ 
+Alquiler equipos de medida y control (30 días x 0,026630 Eur/día) 
+ 0,80 € 
+SUBTOTAL 
+Importe total 
+IGIC reducido ( 7%) 7% s/ 17,66 
+1,66 € 
+18,46 € 
+1,24 € 
+0,08 € 
+IGIC normal ( 10%) 10% s/ 0,80 
+TOTAL IMPORTE FACTURA 
+19,78 € 
+Precios de los términos del peaje de acceso publicados en Orden TEC/1366/2018. 
+Precio del alquiler de los equipos de medida y control en Orden IET 1491/2013 de 3 de 
+agosto. 
+Los precios de la energía de esta tarifa se han actualizado el 01/01/20XX trasladando las variaciones reguladas en la Orden TEC/1366/2018 de 20 de 
+diciembre, en la Orden IET/2013/2013 de 31 de octubre y en la Resolución de 6 de noviembre de 2018 de la Secretaría de Estado de Energía. Con esta tarifa 
+se beneficia de un descuento permanente y le recordamos que, si más de un 50% del consumo lo realiza en horas valle (22-12h en invierno y 23-13h en 
+verano), tendrá un descuento adicional, además de ayudar a proteger el medio ambiente. Para más información puede llamar al servicio de atención al 
+cliente o consultar nuestra web. 
+900 909 534 (tlf. gratuito)  
+http://iberdesacomercializadora.es/  
+ 
+Reclamaciones 
+CRT.SEVILLA-MADRID, KM 524, 
+CAMINO DE LA PASTORA S/N, 
+41410 - SEVILLA 
+Urgencias  
+900 81 88 24 
+(tlf. gratuito) 
+Para reclamaciones sobre el contrato de suministro o facturaciones podrá dirigirse a: Consejería de Empleo, Industria y Comercio de la Comunidad Autónoma de 
+Canarias en el teléfono: 928 XXX XXX o a través de su página web. http://www.gobcan.es/ceic/energia 
+..................................................... 
+............................................ 
+ATENCIÓN AL CLIENTE: CONSULTAS, GESTIONES Y RECLAMACIONES 24 HORAS 
+INFORMACIÓN DE SU PRODUCTO 
+Costes Regulados 
+Coste de producción de electricidad 
+Impuestos aplicados 
+DESTINO DEL IMPORTE DE LA FACTURA 
+DETALLE DE LA FACTURA 
+Producto contratado: PVPC disc. horaria (2 periodos) 
+Potencia contratada: 4,799 kW  
+Referencia del contrato: 8547780133720 
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMACIÓN SOBRE SU ELECTRICIDAD 
+Fuente: CNMC (Comisión Nacional de los Mercados y Competencia), http://gdo.cnmc.es/CNE/resumenGdo.do? 
+XXXXX-X-XX/XX/XX NXXXXXXNNNN 
+El impacto ambiental de su electricidad depende de las fuentes energéticas utilizadas para su generación. 
+En una escala de A a G donde A indica el mínimo impacto ambiental y G el máximo, y que el valor medio nacional 
+corresponde al nivel D, la energía comercializada por IBERDESA COMERCIALIZADORA SOCIEDAD LIMITADA. tiene los 
+siguientes valores: 
+ 
+IMPACTO MEDIOAMBIENTAL 
+ 
+ORIGEN DE LA ELECTRICIDAD 
+Si bien la energía eléctrica que llega a nuestros hogares es indistinguible de la que consumen nuestros vecinos u otros 
+consumidores conectados al mismo sistema eléctrico, ahora sí es posible garantizar el origen de la producción de energía 
+eléctrica que usted consume. 
+A estos efectos se proporciona el desglose de la mezcla de tecnologías de producción nacional para así comparar los 
+porcentajes del promedio nacional con los correspondientes a la energía vendida por su Compañía Comercializadora. 
+ 
+ 
