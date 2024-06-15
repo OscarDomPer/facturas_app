@@ -17,8 +17,8 @@ from io import BytesIO
 import streamlit as st
 import os
 
-input_directory = "Data/facturas"
-output_directory_plano = "Data/facturas_texto"
+input_directory = "./Data/facturas"
+output_directory_plano = "./Data/facturas_texto"
 
 
 # Función para eliminar archivos en un directorio
